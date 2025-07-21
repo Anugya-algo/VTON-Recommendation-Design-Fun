@@ -6,42 +6,33 @@ innovative AI-driven fashion platform combining real-time recommendation, prompt
 
 https://drive.google.com/file/d/1snXPdZ_eMX6ID73uuyDHr4rnD5bWsBnv/view?usp=sharing
 
-🚀 Features
-🔍 AI-Powered Fashion Recommendation
-
+ Features
+AI-Powered Fashion Recommendation
 Vector-based search using FashionCLIP
-
 Fast, personalized matching with Pinecone DB
 
-🎮 Fashion Game Mode
-
+Fashion Game Mode
 Real-time multiplayer outfit styling challenge
-
 Timer, voting, and leaderboard functionality
 
-🛍️ Shopping Experience
-
-Cart-based recommendation system
-
+Shopping Experience
+Cart
 Modern, responsive React UI
 
-🎨 Prompt-to-Outfit Designer
+Prompt-to-Outfit Designer(In progress)
 
 Describe an outfit in words — get AI-generated visuals
-
 Built with Stable Diffusion v1.5 + LoRA fine-tuned models
 
-👚 Virtual Try-On (Coming Soon)
+Virtual Try-On (Coming Soon)
 
-Using DeepLabV3+ for segmentation
-
+Using DeepLabV3+ for segmentation(Real time)
 AlphaPose for human pose estimation
 
-HF-VTON pipeline for garment warping and rendering
+Trained from scratch -HF-VTON pipeline for garment warping and rendering
 
 
-
-🧪 Model Checkpoints
+Model Checkpoints
 Model	Format	Usage
 FashionCLIP	.pt	Embedding generation
 Stable Diffusion	.ckpt	Outfit generation (with LoRA)
