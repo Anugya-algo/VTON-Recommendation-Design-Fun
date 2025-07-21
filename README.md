@@ -1,11 +1,9 @@
 # VTON-Recommendation-Design-Fun
-
+VIDEO
 https://drive.google.com/file/d/1snXPdZ_eMX6ID73uuyDHr4rnD5bWsBnv/view?usp=sharing
 
 Our application enables users to not only visualize garments on themselves but also discover new designs and enjoy gamified shopping with friends.
 innovative AI-driven fashion platform combining real-time recommendation, prompt-based outfit generation, and gamified shopping experiences — all built on modern web technologies and intelligent models. The virtual try-on system is under development, using state-of-the-art deep learning for human pose estimation and garment fitting.
-
-https://drive.google.com/file/d/1snXPdZ_eMX6ID73uuyDHr4rnD5bWsBnv/view?usp=sharing
 
  Features
 AI-Powered Fashion Recommendation
